@@ -1,5 +1,5 @@
 /*
-  Example modified, now just puttting out a integer value through serial output. 
+  Example modified, just putting out a integer value through serial output. 
 
   Based_On: 
   https://dronebotworkshop.com/hc-sr04-ultrasonic-distance-sensor-arduino/
