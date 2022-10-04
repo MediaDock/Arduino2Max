@@ -1,5 +1,4 @@
 /*
-  K++V Position #Hack #Media
   Example modified, now just puttting out a integer value through serial output. 
 
   Based_On: 
