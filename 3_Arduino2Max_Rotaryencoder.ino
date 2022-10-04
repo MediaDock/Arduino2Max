@@ -1,4 +1,6 @@
  /*
+  Example modified, just putting out a integer value through serial output. 
+   
   Rotary Encoder Demo
   rot-encode-demo.ino
   Demonstrates operation of Rotary Encoder
