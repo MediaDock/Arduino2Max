@@ -21,10 +21,18 @@ https://www.tinkercad.com
 
 
 ## Quellen
-1) Programming For Peaople
+
+1) Serial Communication Between Max/MSP and Arduino Using the ‘Serial’ Object
+   https://www.underwater.ca/blog/arduino-to-max-msp/
+
+2) serial Reference
+   Send and receive from a serial port
+   https://docs.cycling74.com/max7/refpages/serial
+
+3) Programming For People
 https://www.youtube.com/watch?v=tOPObpGnrIA
 
-2) Dronebotworkshop.com
+4) Dronebotworkshop.com
 https://dronebotworkshop.com/hc-sr04-ultrasonic-distance-sensor-arduino/
 https://youtu.be/6F1B_N6LuKw
 
