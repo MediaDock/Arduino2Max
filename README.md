@@ -1,3 +1,9 @@
+# Arduino 2 MaxMSP
+Wie kann ein simpler Messwert, etwas in meiner Ausstellungssituation verändert? In diesem Beitrag schauen wir uns an wie wir serielle Daten eines Arduino Sensors in Max MSP hinein ziehen können. Dies ist Hilfreich als Basis für Interaktion in Ausstellungen, eigene Instrumente zu bauen oder in Performaces eine Möglichkeit zur Interaktion mit unterschiedlichsten Medien zu haben. In diesem Recipie zeigen wir dir wie die Basis funktioniert um aus einem Microcontroller Unit (Arduino) und einem Sensor ein selbstgebautes Interface wird um den Messwert in Max MSP weiter zu verarbeiten.
+
+https://sites.hslu.ch/werkstatt/arduino2max/
+
+
 ## Download
 Hier findest du die Software die du während dieser Einführung brauchst. 
 Lade und installiere diese auf deinem Computer.
